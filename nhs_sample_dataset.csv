@@ -1,0 +1,101 @@
+PatientID,Region,AgeGroup,Diagnosis,TreatmentDate,TreatmentCost,Outcome,WaitingTimeDays,GPReferral
+P56179,Midlands,0-17,Diabetes,2024-08-25,699.58,Successful,96,No
+P64598,Midlands,40-49,Diabetes,2024-12-14,920.03,Unsuccessful,46,Yes
+P72281,London,30-39,Hypertension,2024-11-04,627.85,Unsuccessful,61,No
+P91501,South East,70+,Hypertension,2024-07-31,334.48,Successful,47,Yes
+P85028,South East,0-17,Hypertension,2024-10-03,853.24,Ongoing,97,Yes
+P15600,North West,40-49,Diabetes,2024-07-08,256.79,Ongoing,79,No
+P09758,North West,70+,Diabetes,2024-08-06,949.32,Successful,24,No
+P56628,Midlands,40-49,Hypertension,2024-05-02,322.28,Successful,41,No
+P20929,North West,40-49,Cardiovascular,2024-12-04,765.31,Unsuccessful,100,No
+P77690,London,60-69,Asthma,2024-04-27,289.85,Unsuccessful,14,Yes
+P97635,North West,30-39,Arthritis,2024-05-05,899.45,Ongoing,94,Yes
+P20734,Midlands,50-59,Hypertension,2024-08-13,520.81,Successful,52,Yes
+P57313,South East,0-17,Arthritis,2024-02-02,623.72,Ongoing,81,Yes
+P87766,Midlands,60-69,Arthritis,2024-07-06,517.84,Ongoing,24,Yes
+P52159,South East,0-17,Arthritis,2024-07-01,992.32,Successful,34,No
+P72554,South East,70+,Arthritis,2025-01-11,463.22,Ongoing,37,Yes
+P72134,Midlands,0-17,Arthritis,2024-02-18,206.23,Ongoing,32,Yes
+P96880,Midlands,30-39,Hypertension,2024-11-03,187.35,Successful,28,No
+P58680,London,18-29,Arthritis,2024-04-01,938.74,Ongoing,72,Yes
+P59034,South East,50-59,Cardiovascular,2024-05-07,588.95,Successful,54,No
+P48640,South East,30-39,Asthma,2024-07-28,876.87,Successful,95,No
+P56301,South East,18-29,Hypertension,2024-03-08,291.39,Unsuccessful,99,No
+P99397,South East,50-59,Arthritis,2024-03-24,269.79,Successful,19,No
+P44755,South East,50-59,Diabetes,2024-07-21,570.71,Ongoing,41,Yes
+P91985,North West,50-59,Asthma,2024-05-16,632.55,Ongoing,6,Yes
+P67523,London,50-59,Arthritis,2024-08-27,602.43,Unsuccessful,97,Yes
+P45667,South East,70+,Arthritis,2024-06-15,648.5,Unsuccessful,17,No
+P91295,Midlands,50-59,Hypertension,2024-04-25,320.44,Ongoing,35,Yes
+P07606,Midlands,60-69,Cardiovascular,2024-09-14,190.21,Unsuccessful,79,Yes
+P61361,London,0-17,Hypertension,2024-03-26,381.44,Unsuccessful,100,Yes
+P86944,North West,50-59,Diabetes,2024-09-07,608.69,Unsuccessful,77,Yes
+P41229,North West,50-59,Arthritis,2024-11-21,241.78,Successful,5,Yes
+P32182,North West,18-29,Cardiovascular,2024-09-02,736.26,Ongoing,60,Yes
+P27027,Midlands,40-49,Diabetes,2024-03-15,657.7,Unsuccessful,85,Yes
+P59485,Midlands,50-59,Asthma,2025-01-21,665.15,Unsuccessful,15,Yes
+P89489,South East,30-39,Asthma,2024-04-24,457.45,Unsuccessful,64,No
+P44519,Midlands,70+,Asthma,2025-01-27,641.64,Successful,86,No
+P67759,London,40-49,Arthritis,2025-01-13,531.17,Ongoing,67,Yes
+P00785,London,50-59,Diabetes,2024-03-02,253.43,Ongoing,94,Yes
+P31545,South East,30-39,Diabetes,2024-06-16,951.72,Successful,92,No
+P50399,London,50-59,Asthma,2024-06-20,670.86,Ongoing,67,No
+P34082,South East,50-59,Diabetes,2024-10-18,211.01,Unsuccessful,61,No
+P43415,London,18-29,Diabetes,2024-12-18,100.52,Ongoing,85,Yes
+P66073,South East,50-59,Asthma,2025-01-21,763.87,Unsuccessful,81,No
+P54480,London,30-39,Asthma,2024-08-18,572.5,Unsuccessful,89,No
+P21236,Midlands,60-69,Arthritis,2024-05-29,340.02,Ongoing,29,Yes
+P40344,London,18-29,Cardiovascular,2024-03-26,452.3,Unsuccessful,33,Yes
+P53472,North West,30-39,Arthritis,2024-11-29,584.64,Ongoing,91,No
+P80232,North West,50-59,Diabetes,2024-06-19,408.56,Successful,10,No
+P99890,London,50-59,Diabetes,2024-06-15,427.85,Successful,33,Yes
+P97931,Midlands,0-17,Cardiovascular,2025-01-22,192.26,Successful,40,Yes
+P27443,London,70+,Hypertension,2024-07-26,572.19,Successful,76,No
+P26679,Midlands,60-69,Arthritis,2024-12-09,269.46,Unsuccessful,49,No
+P01725,North West,40-49,Hypertension,2024-12-21,980.16,Unsuccessful,56,Yes
+P97063,South East,70+,Cardiovascular,2024-04-04,590.8,Ongoing,94,Yes
+P22674,North West,60-69,Arthritis,2024-11-01,545.58,Unsuccessful,65,No
+P07329,Midlands,18-29,Arthritis,2024-12-31,870.36,Ongoing,53,Yes
+P55388,North West,60-69,Asthma,2024-03-08,192.86,Unsuccessful,5,Yes
+P30097,London,60-69,Diabetes,2024-02-14,169.43,Successful,57,No
+P09084,Midlands,18-29,Cardiovascular,2024-04-20,487.87,Unsuccessful,22,No
+P88947,London,40-49,Diabetes,2024-11-21,762.71,Unsuccessful,77,Yes
+P51069,Midlands,50-59,Hypertension,2024-12-09,233.93,Unsuccessful,22,No
+P87599,North West,70+,Hypertension,2024-02-04,556.36,Successful,65,No
+P34369,South East,70+,Asthma,2024-08-18,444.87,Unsuccessful,7,Yes
+P79796,London,30-39,Asthma,2024-07-03,739.25,Unsuccessful,14,Yes
+P67458,North West,50-59,Hypertension,2024-05-02,862.43,Ongoing,17,Yes
+P54011,North West,18-29,Cardiovascular,2024-04-26,223.3,Ongoing,35,No
+P85087,South East,30-39,Cardiovascular,2024-08-08,790.05,Successful,37,No
+P99185,Midlands,30-39,Diabetes,2024-07-02,68.54,Successful,86,Yes
+P89111,Midlands,70+,Asthma,2024-06-05,57.03,Successful,92,Yes
+P18801,London,40-49,Asthma,2024-03-22,893.8,Unsuccessful,96,No
+P70003,North West,0-17,Asthma,2024-06-01,329.76,Unsuccessful,75,Yes
+P05179,London,60-69,Hypertension,2024-10-30,860.41,Unsuccessful,15,No
+P74462,South East,50-59,Diabetes,2024-08-23,660.19,Unsuccessful,7,Yes
+P36028,Midlands,18-29,Asthma,2024-05-21,193.75,Ongoing,15,Yes
+P23164,Midlands,30-39,Diabetes,2024-08-23,93.88,Ongoing,100,Yes
+P50691,South East,40-49,Asthma,2024-12-05,662.26,Unsuccessful,25,Yes
+P94636,London,30-39,Arthritis,2024-11-01,879.28,Ongoing,84,Yes
+P21356,Midlands,0-17,Diabetes,2024-09-10,273.4,Ongoing,41,No
+P64643,Midlands,0-17,Asthma,2024-12-20,94.45,Successful,29,Yes
+P67983,London,60-69,Cardiovascular,2024-12-24,127.8,Unsuccessful,70,Yes
+P00732,Midlands,60-69,Cardiovascular,2024-12-08,301.5,Successful,17,Yes
+P01533,South East,40-49,Diabetes,2024-09-24,563.45,Successful,37,No
+P88323,London,70+,Cardiovascular,2024-10-12,222.06,Unsuccessful,51,Yes
+P77807,London,50-59,Cardiovascular,2024-03-24,633.76,Successful,18,No
+P44778,North West,60-69,Hypertension,2024-06-03,857.4,Successful,52,No
+P85582,North West,30-39,Asthma,2024-12-15,438.87,Successful,85,Yes
+P27864,London,18-29,Asthma,2024-04-27,652.92,Ongoing,21,No
+P39082,London,30-39,Cardiovascular,2024-03-30,314.96,Unsuccessful,69,No
+P80563,Midlands,50-59,Diabetes,2025-01-11,101.34,Ongoing,43,No
+P54211,South East,50-59,Hypertension,2024-11-17,858.14,Ongoing,87,No
+P23373,North West,50-59,Asthma,2024-08-22,81.44,Successful,51,Yes
+P96019,Midlands,40-49,Diabetes,2024-10-30,149.54,Successful,16,Yes
+P03672,Midlands,0-17,Diabetes,2024-09-07,940.5,Successful,49,No
+P93647,Midlands,70+,Diabetes,2025-01-18,527.46,Ongoing,31,No
+P26621,North West,50-59,Hypertension,2024-10-24,564.42,Successful,58,No
+P28001,South East,0-17,Cardiovascular,2025-01-11,411.63,Unsuccessful,60,No
+P90967,South East,60-69,Asthma,2024-07-10,350.38,Successful,55,Yes
+P75612,North West,70+,Arthritis,2024-07-04,81.39,Unsuccessful,80,No
+P69364,North West,50-59,Arthritis,2024-08-15,149.37,Successful,39,No
